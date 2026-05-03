@@ -114,7 +114,7 @@ india-post-complaint-analysis/
 │
 └── images/
     ├── Dashboard.png                          # Full dashboard screenshot
-    └── individual_charts/                     # Per-chart screenshots
+                     
 ```
 
 ## 🎓 What I Learned
