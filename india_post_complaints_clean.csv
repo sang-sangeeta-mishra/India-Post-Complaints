@@ -1,0 +1,1000 @@
+date,article_id,article_prefix,article_category,service_type,issue_text,issue_type
+2026-04-25,RD384402891IN,RD,Registered ®,Other,Unable to track article showing invalid error,Tracking Issue
+2026-04-25,JL285518195IN,JL,Bulk Speed Post (J),Speed Post,Tracking not updated even after 48 hours,Tracking Issue
+2026-04-25,CG228309340IN,CG,COD (C),COD Parcel,Item booked but not delivered after long delay,Delivery Delay
+2026-04-25,CD939077190IN,CD,COD (C),COD Parcel,Parcel delayed with no updates for several days,Delivery Delay
+2026-04-25,JG802521085IN,JG,Bulk Speed Post (J),Speed Post,Marked addressee absent without delivery attempt,Fake Delivery Attempt
+2026-04-25,EN416233587IN,EN,Speed Post (E),Speed Post,Marked delivered but not received even after many days,Fake Delivery Attempt
+2026-04-25,EK940661457IN,EK,Speed Post (E),Speed Post,Speed Post not delivered,Delivery Delay
+2026-04-25,CX024200681IN,CX,COD (C),COD Parcel,Parcel pickup not completed,Delivery Delay
+2026-04-24,EY093529760IN,EY,Speed Post (E),Speed Post,No tracking updates and not delivered,Tracking Issue
+2026-04-24,EN418127127IN,EN,Speed Post (E),Speed Post,Service timing inconsistency at post office,Service Issue
+2026-04-24,PP230912871IN,PP,Parcel (P),Speed Post,Delivery marked unsuccessful due to missent,Delivery Delay
+2026-04-24,JJ668325134IN,JJ,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-04-24,JN098969335IN,JN,Bulk Speed Post (J),Speed Post,Out for delivery but no contact information provided,Service Issue
+2026-04-24,EH278714495IN,EH,Speed Post (E),Speed Post,Marked delivered but not received with fake update,Fake Delivery Attempt
+2026-04-24,JI165382054IN,JI,Bulk Speed Post (J),Speed Post,PAN card not delivered after long delay,Delivery Delay
+2026-04-23,ED292553649IN,ED,Speed Post (E),Speed Post,Request for update on complaint,Other
+2026-04-23,UC530431630IN,UC,Registered Parcel (U),Speed Post,Postman not delivering on time,Delivery Delay
+2026-04-23,AW796035776IN,AW,Air Mail (A),Ack. Regd. Article,Dispatched but not delivered,Delivery Delay
+2026-04-22,JJ892696555IN,JJ,Bulk Speed Post (J),Speed Post,Out for delivery but not received,Delivery Delay
+2026-04-22,EF830986337IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-22,EG208565180IN,EG,Speed Post (E),Speed Post,Reached location but not delivered,Delivery Delay
+2026-04-22,JA963822373IN,JA,Bulk Speed Post (J),Speed Post,No tracking update for important document,Tracking Issue
+2026-04-22,CA720504695IN,CA,COD (C),COD Parcel,Stuck at export customs with no update,Tracking Issue
+2026-04-22,CX022442115IN,CX,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-04-22,MP195666001IN,MP,Other (M),Speed Post,Parcel stuck with no updates,Delivery Delay
+2026-04-21,CR451857031IN,CR,COD (C),COD Parcel,Marked missent unsuccessful delivery,Fake Delivery Attempt
+2026-04-21,EO839790774IN,EO,Speed Post (E),Speed Post,Parcel delayed and marked missent without update,Delivery Delay
+2026-04-21,CT468062636IN,CT,COD (C),COD Parcel,Parcel on hold for long time and not delivered,Delivery Delay
+2026-04-21,EY093271065IN,EY,Speed Post (E),Speed Post,Marked door locked without delivery attempt,Fake Delivery Attempt
+2026-04-21,JA461709559IN,JA,Bulk Speed Post (J),Speed Post,Marked insufficient address without attempt,Fake Delivery Attempt
+2026-04-21,EN270001096IN,EN,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-21,CX021932444IN,CX,COD (C),COD Parcel,Dispatched but no delivery updates,Delivery Delay
+2026-04-21,EM913194313IN,EM,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-21,UC529425393IN,UC,Registered Parcel (U),Speed Post,Marked delivered but not actually delivered,Fake Delivery Attempt
+2026-04-20,JL164842633IN,JL,Bulk Speed Post (J),Speed Post,Voter ID delivered to wrong address multiple times,Wrong Delivery
+2026-04-20,EN489929740IN,EN,Speed Post (E),Speed Post,International EMS stuck for 12 days,Delivery Delay
+2026-04-20,RD849415654IN,RD,Registered (R),Registered Letter,Tracking shows invalid article number,Tracking Issue
+2026-04-20,JN379222035IN,JN,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-04-20,UC530203155IN,UC,Registered Parcel (U),Speed Post,Marked delivered but not received,Missing Item
+2026-04-20,EW568449365IN,EW,Speed Post (E),Speed Post,Out for delivery but returned without attempt,Fake Delivery Attempt
+2026-04-20,EU260428049IN,EU,Speed Post (E),Speed Post,Marked delivered but not actually delivered,Fake Delivery Attempt
+2026-04-20,EG208679598IN,EG,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-20,CB155154106IN,CB,COD (C),COD Parcel,Foreign article not delivered for 2 months,Delivery Delay
+2026-04-20,JC840121542IN,JC,Bulk Speed Post (J),Speed Post,Marked missent unsuccessful delivery repeatedly,Fake Delivery Attempt
+2026-04-20,EJ622098983IN,EJ,Speed Post (E),Speed Post,Speed post not moving and delayed,Delivery Delay
+2026-04-19,EM914785515IN,EM,Speed Post (E),Speed Post,Wrong PIN code entered during booking,Wrong Delivery
+2026-04-19,EC482822284IN,EC,Speed Post (E),Speed Post,Tracking shows item details not found,Tracking Issue
+2026-04-19,JN179636964IN,JN,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-04-18,EU965454297IN,EU,Speed Post (E),Speed Post,RTI delivery dispute and authenticity issue,Service Issue
+2026-04-18,EU204599815IN,EU,Speed Post (E),Speed Post,RTI delivery dispute and authenticity issue,Service Issue
+2026-04-18,AW796244346IN,AW,Air Mail (A),Ack. Regd. Article,Marked door locked without delivery attempt,Fake Delivery Attempt
+2026-04-18,JJ894264796IN,JJ,Bulk Speed Post (J),Speed Post,Marked missent without delivery attempt,Fake Delivery Attempt
+2026-04-18,CL525480584IN,CL,COD (C),COD Parcel,Parcel not delivered after long delay,Delivery Delay
+2026-04-18,CY162680924IN,CY,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-04-18,CM455836261IN,CM,COD (C),COD Parcel,Parcel stuck in routing loop,Delivery Delay
+2026-04-18,CX019805901IN,CX,COD (C),COD Parcel,Returned with false door closed reason,Fake Delivery Attempt
+2026-04-18,EY079959946IN,EY,Speed Post (E),Speed Post,Speed post delayed beyond expected time,Delivery Delay
+2026-04-17,EU878265617IN,EU,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-17,EY081517115IN,EY,Speed Post (E),Speed Post,Marked wrong address without attempt,Fake Delivery Attempt
+2026-04-17,ER104927708IN,ER,Speed Post (E),Speed Post,Parcel stuck for long time without updates,Delivery Delay
+2026-04-17,CX021600345IN,CX,COD (C),COD Parcel,Parcel stuck in transit with no updates,Delivery Delay
+2026-04-17,EN427579880IN,EN,Speed Post (E),Speed Post,Speed post not delivered and no updates,Delivery Delay
+2026-04-17,CI129674995IN,CI,COD (C),COD Parcel,Marked missent and redirected to wrong office,Delivery Delay
+2026-04-17,ES009752679IN,ES,Speed Post (E),Speed Post,Parcel not delivered after 25+ days,Delivery Delay
+2026-04-17,JN095936275IN,JN,Bulk Speed Post (J),Speed Post,Out for delivery but no proper coordination,Service Issue
+2026-04-17,PP584538722IN,PP,Parcel (P),Speed Post,Marked missent and no response from office,Fake Delivery Attempt
+2026-04-17,LP125385622AU,LP,International (L),International Article,Parcel stuck in customs/delay,Delivery Delay
+2026-04-17,EG007227830IN,EG,Speed Post (E),Speed Post,Parcel stuck for multiple days,Delivery Delay
+2026-04-16,EF865433909IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-16,EP262652736IN,EP,Speed Post (E),Speed Post,Parcel lost in transit,Missing Item
+2026-04-16,RU511868325IN,RU,Registered (R),Registered Letter,Parcel on hold with no updates,Delivery Delay
+2026-04-16,AV587339592IN,AV,Air Mail (A),Ack. Regd. Article,Repeated missent delivery attempts,Fake Delivery Attempt
+2026-04-16,AV607429161IN,AV,Air Mail (A),Ack. Regd. Article,Repeated missent delivery attempts,Fake Delivery Attempt
+2026-04-15,CU280545818IN,CU,COD (C),COD Parcel,Marked door locked without attempt,Fake Delivery Attempt
+2026-04-15,UI718116286IN,UI,Registered Parcel (U),Speed Post,Delivery not completed and unclear reason,Service Issue
+2026-04-15,UI718348489IN,UI,Registered Parcel (U),Speed Post,Marked delivered but not received,Missing Item
+2026-04-15,JA015628931IN,JA,Bulk Speed Post (J),Speed Post,Parcel not delivered for long time,Delivery Delay
+2026-04-15,EG208891771IN,EG,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-15,JI111029008IN,JI,Bulk Speed Post (J),Speed Post,Marked delivered months ago but not received,Missing Item
+2026-04-15,CX021778612IN,CX,COD (C),COD Parcel,Delivery failed due to missent affecting exam preparation,Delivery Delay
+2026-04-15,,,Unknown,Speed Post,Parcel received in torn condition and missing items,Damage/Loss
+2026-04-14,UC529393404IN,UC,Registered Parcel (U),Speed Post,Marked door locked without delivery attempt,Fake Delivery Attempt
+2026-04-14,EW354704054IN,EW,Speed Post (E),Speed Post,Speed post stuck for 3 days,Delivery Delay
+2026-04-14,EE485588285IN,EE,Speed Post (E),Speed Post,Parcel stuck for 9 days without update,Delivery Delay
+2026-04-14,,,Unknown,Speed Post,Passport stuck and not moving,Delivery Delay
+2026-04-13,ST237369806IN,ST,Other (S),Speed Post,Marked delivered but not received,Missing Item
+2026-04-13,EV587092196IN,EV,Speed Post (E),Speed Post,Delay with false door locked update,Fake Delivery Attempt
+2026-04-13,ER481796115IN,ER,Speed Post (E),Speed Post,Speed post not delivered with no updates,Delivery Delay
+2026-04-13,EJ385931949IN,EJ,Speed Post (E),Speed Post,Parcel roaming with no updates,Delivery Delay
+2026-04-13,PP735882353IN,PP,Parcel (P),Speed Post,Marked missent without delivery attempt,Fake Delivery Attempt
+2026-04-12,EU328122325IN,EU,Speed Post (E),Speed Post,Marked missent without delivery attempt,Fake Delivery Attempt
+2026-04-12,EB055702414IN,EB,Speed Post (E),Speed Post,Parcel not delivered and causing financial loss,Delivery Delay
+2026-04-11,EW409906376IN,EW,Speed Post (E),Speed Post,Parcel missing after fake delivery update,Missing Item
+2026-04-11,ST237886694IN,ST,Other (S),Speed Post,Marked delivered but not received,Missing Item
+2026-04-11,EJ347822078IN,EJ,Speed Post (E),Speed Post,Speed post not updated and delayed,Delivery Delay
+2026-04-11,EU328122325IN,EU,Speed Post (E),Speed Post,Marked missent without delivery attempt,Fake Delivery Attempt
+2026-04-11,ST239909089IN,ST,Other (S),Speed Post,Out for delivery but no delivery attempt,Service Issue
+2026-04-11,EG652069345IN,EG,Speed Post (E),Speed Post,Marked addressee absent without attempt,Fake Delivery Attempt
+2026-04-10,CW214913666IN,CW,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-04-10,JA024761752IN,JA,Bulk Speed Post (J),Speed Post,Marked delivered without OTP/call/signature,Fake Delivery Attempt
+2026-04-10,JL069039876IN,JL,Bulk Speed Post (J),Speed Post,Marked delivered without OTP/call/signature,Fake Delivery Attempt
+2026-04-10,EZ721699445IN,EZ,Speed Post (E),Speed Post,Marked door locked without delivery attempt,Fake Delivery Attempt
+2026-04-10,CT219711793IN,CT,COD (C),COD Parcel,Parcel not delivered despite complaint,Delivery Delay
+2026-04-10,EC411079736IN,EC,Speed Post (E),Speed Post,Returned despite complaint raised,Service Issue
+2026-04-10,EE942086982IN,EE,Speed Post (E),Speed Post,Speed post not dispatched and no tracking update,Tracking Issue
+2026-04-10,JI579364520IN,JI,Bulk Speed Post (J),Speed Post,Marked missent repeatedly,Fake Delivery Attempt
+2026-04-09,JH023801340IN,JH,Bulk Speed Post (J),Speed Post,Delivered but items missing inside parcel,Damage/Loss
+2026-04-09,TA801324132IN,TA,Other (T),Speed Post,Marked undelivered without attempt,Fake Delivery Attempt
+2026-04-09,HQ052345452IN,HQ,Other (H),Speed Post,Repeated addressee absent updates without attempt,Fake Delivery Attempt
+2026-04-09,UI717447012IN,UI,Registered Parcel (U),Speed Post,Marked delivered but not received,Missing Item
+2026-04-09,EE804104657IN,EE,Speed Post (E),Speed Post,Parcel on hold not delivered urgently,Delivery Delay
+2026-04-09,CY182699037IN,CY,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-04-09,JN091391286IN,JN,Bulk Speed Post (J),Speed Post,PAN card not delivered and no tracking update,Delivery Delay
+2026-04-09,LB482840155US,LB,International (L),International Article,Parcel stuck at customs for long time,Delivery Delay
+2026-04-09,EG226059454IN,EG,Speed Post (E),Speed Post,Registered post not delivered before deadline,Delivery Delay
+2026-04-09,JA022084682IN,JA,Bulk Speed Post (J),Speed Post,Important document not delivered,Delivery Delay
+2026-04-09,UC527849341IN,UC,Registered Parcel (U),Speed Post,Delivered but poor service experience,Service Issue
+2026-04-09,PT112907492IN,PT,Parcel (P),Speed Post,Marked delivered but not received PAN card,Missing Item
+2026-04-07,EP784836369IN,EP,Speed Post (E),Speed Post,Marked addressee absent without attempt,Fake Delivery Attempt
+2026-04-07,UC50194301IN,UC,Registered Parcel (U),Speed Post,Tracking shows no article found,Tracking Issue
+2026-04-07,ST134789404IN,ST,Other (S),Speed Post,Marked delivered but not received,Missing Item
+2026-04-07,EM886712651IN,EM,Speed Post (E),Speed Post,Parcel returned with false delivery status,Delivery Delay
+2026-04-07,JN338137267IN,JN,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-04-07,JG491571638IN,JG,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-04-07,JG489069467IN,JG,Bulk Speed Post (J),Speed Post,Speed post delayed and not dispatched on time,Delivery Delay
+2026-04-07,ST234796221IN,ST,Other (S),Speed Post,Marked missent without delivery attempt,Fake Delivery Attempt
+2026-04-07,CO133312370IN,CO,COD (C),COD Parcel,Parcel delivered in damaged condition with missing items,Damage/Loss
+2026-04-06,CA728403220IN,CA,COD (C),COD Parcel,Parcel stuck at same location for long time,Delivery Delay
+2026-04-06,CA728402975IN,CA,COD (C),COD Parcel,Parcel stuck at same location for long time,Delivery Delay
+2026-04-06,PT179853218IN,PT,Parcel (P),Speed Post,Marked delivered but not received,Missing Item
+2026-04-06,ED322835844IN,ED,Speed Post (E),Speed Post,Parcel not delivered despite short distance,Delivery Delay
+2026-04-06,JA021451632IN,JA,Bulk Speed Post (J),Speed Post,Parcel returned/delayed without delivery attempt,Fake Delivery Attempt
+2026-04-06,ED895103129IN,ED,Speed Post (E),Speed Post,Marked missent repeatedly,Fake Delivery Attempt
+2026-04-06,AQ019034346IN,AQ,Air Mail (A),Ack. Regd. Article,Marked delivered but not received debit card,Missing Item
+2026-04-06,EP868732663IN,EP,Speed Post (E),Speed Post,Speed post delayed and mishandled,Delivery Delay
+2026-04-06,RY009705991IN,RY,Registered (R),Registered Letter,Parcel not delivered and unclear status,Delivery Delay
+2026-04-06,EU887044477IN,EU,Speed Post (E),Speed Post,Speed post not delivered after 7 days,Delivery Delay
+2026-04-06,EU887044463IN,EU,Speed Post (E),Speed Post,Speed post not delivered after 7 days,Delivery Delay
+2026-04-06,EU887044450IN,EU,Speed Post (E),Speed Post,Speed post not delivered after 7 days,Delivery Delay
+2026-04-06,CD910126504IN,CD,COD (C),COD Parcel,Parcel stuck with no update after complaint,Tracking Issue
+2026-04-06,ED274697385IN,ED,Speed Post (E),Speed Post,Speed post letter not found,Tracking Issue
+2026-04-05,JG685816408IN,JG,Bulk Speed Post (J),Speed Post,Out for delivery but not received,Delivery Delay
+2026-04-05,EI864836645IN,EI,Speed Post (E),Speed Post,False delivery status and delayed document,Fake Delivery Attempt
+2026-04-05,JA007436974IN,JA,Bulk Speed Post (J),Speed Post,Returned to sender without delivery attempt,Fake Delivery Attempt
+2026-04-04,EF748592774IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-04,EF762310995IN,EF,Speed Post (E),Speed Post,No tracking update after booking,Tracking Issue
+2026-04-04,BX718760173IN,BX,Other (B),Speed Post,Unsuccessful delivery unclear reason,Service Issue
+2026-04-04,CP378447386IN,CP,COD (C),COD Parcel,Marked addressee absent without attempt,Fake Delivery Attempt
+2026-04-04,EP001518763IN,EP,Speed Post (E),Speed Post,Parcel stuck at booking location,Delivery Delay
+2026-04-04,ST136351165IN,ST,Other (S),Speed Post,Marked delivered but not received,Missing Item
+2026-04-03,UC526721012IN,UC,Registered Parcel (U),Speed Post,Marked delivered but not received,Missing Item
+2026-04-03,CH126791975IN,CH,COD (C),COD Parcel,Parcel not delivered after booking,Delivery Delay
+2026-04-03,TA690879595IN,TA,Other (T),Speed Post,Delivery not attempted despite availability,Fake Delivery Attempt
+2026-04-03,CD910126504IN,CD,COD (C),COD Parcel,Parcel stuck at same location for days,Tracking Issue
+2026-04-02,ET547598483IN,ET,Speed Post (E),Speed Post,False door locked delivery attempt,Fake Delivery Attempt
+2026-04-02,UC527388358IN,UC,Registered Parcel (U),Speed Post,Marked delivered but not received,Missing Item
+2026-04-02,EE706073583IN,EE,Speed Post (E),Speed Post,Marked missent without delivery attempt,Fake Delivery Attempt
+2026-04-02,EM435806521IN,EM,Speed Post (E),Speed Post,Speed post delayed beyond due date,Delivery Delay
+2026-04-02,UC526523175IN,UC,Registered Parcel (U),Speed Post,Delivered but verification unclear,Service Issue
+2026-04-02,EN793100158IN,EN,Speed Post (E),Speed Post,Delivered but verification unclear,Service Issue
+2026-04-02,PN9085011264226,PN,Parcel (P),Speed Post,File dispatch delayed without update,Delivery Delay
+2026-04-01,EU090064435IN,EU,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-01,JM882109468IN,JM,Bulk Speed Post (J),Speed Post,Parcel stuck at nearby location,Delivery Delay
+2026-04-01,CK578926008IN,CK,COD (C),COD Parcel,Parcel delayed in transit,Delivery Delay
+2026-04-01,EK877429645IN,EK,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-04-01,PT176735217IN,PT,Parcel (P),Speed Post,Marked missent without delivery,Fake Delivery Attempt
+2026-04-01,PT175093794IN,PT,Parcel (P),Speed Post,Marked delivered but not received,Missing Item
+2026-04-01,ED326439132IN,ED,Speed Post (E),Speed Post,Marked door locked falsely,Fake Delivery Attempt
+2026-04-01,EY066700842IN,EY,Speed Post (E),Speed Post,Speed post delayed for long time,Delivery Delay
+2026-03-31,CX014460041IN,CX,COD (C),COD Parcel,No update for long time after booking,Tracking Issue
+2026-03-31,EG557313092IN,EG,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-31,JM881426141IN,JM,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-31,EY071144405IN,EY,Speed Post (E),Speed Post,Speed post delayed in transit,Delivery Delay
+2026-03-31,JG686283285IN,JG,Bulk Speed Post (J),Speed Post,Booking message confusion,Service Issue
+2026-03-30,EF741050779IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-30,EU887751033IN,EU,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-30,EE706073583IN,EE,Speed Post (E),Speed Post,Marked missent repeatedly,Fake Delivery Attempt
+2026-03-29,EF752566373IN,EF,Speed Post (E),Speed Post,Speed post not delivered within promised time,Delivery Delay
+2026-03-29,EF752566387IN,EF,Speed Post (E),Speed Post,Speed post not delivered within promised time,Delivery Delay
+2026-03-29,RU517290098IN,RU,Registered (R),Registered Letter,Parcel reached destination but not delivered,Delivery Delay
+2026-03-29,EE802029848IN,EE,Speed Post (E),Speed Post,Postman refused delivery and asked pickup,Service Issue
+2026-03-29,EU803057947IN,EU,Speed Post (E),Speed Post,Parcel not delivered urgent request,Delivery Delay
+2026-03-28,JN852270795IN,JN,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-28,CX018004657IN,CX,COD (C),COD Parcel,Parcel delivered damaged,Damage/Loss
+2026-03-28,ST222078665IN,ST,Other (S),Speed Post,False delivered status without receipt,Fake Delivery Attempt
+2026-03-28,PT174235363IN,PT,Parcel (P),Speed Post,Marked delivered but not received,Missing Item
+2026-03-28,RB222423899IN,RB,Registered (R),Registered Letter,Delivery boy refused doorstep delivery,Service Issue
+2026-03-28,ST232079740IN,ST,Other (S),Speed Post,Door locked update without attempt,Fake Delivery Attempt
+2026-03-28,JA934559439IN,JA,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-28,CM179794571IN,CM,COD (C),COD Parcel,Tracking not available after booking,Tracking Issue
+2026-03-28,EU509007628IN,EU,Speed Post (E),Speed Post,Marked missent without attempt,Fake Delivery Attempt
+2026-03-28,QH016425997IN,QH,Other (Q),Speed Post,Tracking shared but no update,Tracking Issue
+2026-03-28,JH023565629IN,JH,Bulk Speed Post (J),Speed Post,Shipment cancelled after pickup,Service Issue
+2026-03-28,EU805721443IN,EU,Speed Post (E),Speed Post,Parcel stuck after airport dispatch,Delivery Delay
+2026-03-28,CP159523481IN,CP,COD (C),COD Parcel,Partial delivery items missing,Damage/Loss
+2026-03-27,JA934559439IN,JA,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-27,JI50787523IN,JI,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-27,EI350202865IN,EI,Speed Post (E),Speed Post,Missent to wrong PIN code,Fake Delivery Attempt
+2026-03-27,PT171238255IN,PT,Parcel (P),Speed Post,PAN card delivered but not received,Missing Item
+2026-03-27,PP107396677IN,PP,Parcel (P),Speed Post,Repeated missent issue,Fake Delivery Attempt
+2026-03-27,LR529251499NL,LR,International (L),International Article,Parcel stuck at customs,Delivery Delay
+2026-03-27,EK684387835IN,EK,Speed Post (E),Speed Post,Article booked but no delivery update,Tracking Issue
+2026-03-26,AX988262913IN,AX,Air Mail (A),Ack. Regd. Article,Tracking number not found possible scam,Tracking Issue
+2026-03-26,JI050787523IN,JI,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-26,CX018120406IN,CX,COD (C),COD Parcel,Parcel torn and items missing,Damage/Loss
+2026-03-26,CR453514547IN,CR,COD (C),COD Parcel,Parcel delivered successfully after resolution,Other
+2026-03-26,JA055019338IN,JA,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-26,EU096503982IN,EU,Speed Post (E),Speed Post,Speed post not delivered complaint raised,Delivery Delay
+2026-03-26,EF806359155IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-26,PT057261621IN,PT,Parcel (P),Speed Post,Parcel not delivered yet,Delivery Delay
+2026-03-25,CH131565875IN,CH,COD (C),COD Parcel,Returned to sender without delivery attempt,Fake Delivery Attempt
+2026-03-25,EF764626600IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-25,ES936297007IN,ES,Speed Post (E),Speed Post,Parcel reached empty theft in transit,Damage/Loss
+2026-03-25,EU795530402IN,EU,Speed Post (E),Speed Post,Parcel stuck at same location,Delivery Delay
+2026-03-25,EF632013611IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-25,EU802373435IN,EU,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-25,JI910878000IN,JI,Bulk Speed Post (J),Speed Post,Parcel not delivered after 1 month delay,Delivery Delay
+2026-03-25,ED594010294IN,ED,Speed Post (E),Speed Post,No tracking update after booking,Tracking Issue
+2026-03-25,ST222078665IN,ST,Other (S),Speed Post,Marked delivered but not received false update,Fake Delivery Attempt
+2026-03-25,JQ040079247IN,JQ,Bulk Speed Post (J),Speed Post,Repeated missent tracking messages,Fake Delivery Attempt
+2026-03-25,CY193910914IN,CY,COD (C),COD Parcel,Tracking issue reported by customer,Tracking Issue
+2026-03-25,EE802029848IN,EE,Speed Post (E),Speed Post,Postman refused delivery forced pickup,Service Issue
+2026-03-25,EE802867197IN,EE,Speed Post (E),Speed Post,Parcel returned empty after tampering,Damage/Loss
+2026-03-24,CI139346646IN,CI,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-03-24,EW324127636IN,EW,Speed Post (E),Speed Post,Speed post delayed urgent documents,Delivery Delay
+2026-03-24,CE089021640IN,CE,COD (C),COD Parcel,International parcel stuck for 67 days,Delivery Delay
+2026-03-24,PT171243785IN,PT,Parcel (P),Speed Post,Marked delivered but not received no response,Missing Item
+2026-03-24,PT106371413IN,PT,Parcel (P),Speed Post,Status contact to BO but no record at office,Tracking Issue
+2026-03-24,AV781112692IN,AV,Air Mail (A),Ack. Regd. Article,Marked addressee absent without attempt,Fake Delivery Attempt
+2026-03-24,AW794311431IN,AW,Air Mail (A),Ack. Regd. Article,Article booked but customer did not order,Service Issue
+2026-03-24,PT041637548IN,PT,Parcel (P),Speed Post,Article not received since long time,Delivery Delay
+2026-03-24,EF758544186IN,EF,Speed Post (E),Speed Post,Pending delivery after reaching NSH,Delivery Delay
+2026-03-24,RY009616789IN,RY,Registered (R),Registered Letter,Parcel reached but not delivered,Delivery Delay
+2026-03-24,JL066504922IN,JL,Bulk Speed Post (J),Speed Post,Tracking not updated for many days,Tracking Issue
+2026-03-24,ST232870009IN,ST,Other (S),Speed Post,No tracking status available,Tracking Issue
+2026-03-24,CL593212220IN,CL,COD (C),COD Parcel,Shipment not delivered and no updates,Delivery Delay
+2026-03-24,LP635858073GB,LP,International (L),International Article,Parcel stuck at customs,Delivery Delay
+2026-03-23,JD090431324IN,JD,Bulk Speed Post (J),Speed Post,Parcel stuck for 6 days,Delivery Delay
+2026-03-23,JG568457407IN,JG,Bulk Speed Post (J),Speed Post,Speed post not delivered after multiple complaints,Delivery Delay
+2026-03-23,CT304840180IN,CT,COD (C),COD Parcel,Tracking not updated since dispatch,Tracking Issue
+2026-03-23,EF447374885IN,EF,Speed Post (E),Speed Post,Marked addressee absent without attempt,Fake Delivery Attempt
+2026-03-23,EH229880880IN,EH,Speed Post (E),Speed Post,Repeated out for delivery but not delivered,Delivery Delay
+2026-03-23,ED326707823IN,ED,Speed Post (E),Speed Post,Out for delivery but not delivered,Delivery Delay
+2026-03-23,CR355625066IN,CR,COD (C),COD Parcel,Parcel not delivered after booking,Delivery Delay
+2026-03-23,EO681669369IN,EO,Speed Post (E),Speed Post,Speed post not delivered after many days,Delivery Delay
+2026-03-23,EY066799294IN,EY,Speed Post (E),Speed Post,Speed post delayed after booking,Delivery Delay
+2026-03-23,EY066799303IN,EY,Speed Post (E),Speed Post,Speed post delayed after booking,Delivery Delay
+2026-03-23,EU864724383IN,EU,Speed Post (E),Speed Post,Speed post delayed refund requested,Delivery Delay
+2026-03-23,PT171243785IN,PT,Parcel (P),Speed Post,Marked delivered but not received no response,Missing Item
+2026-03-23,PT106371413IN,PT,Parcel (P),Speed Post,Status shows contact to BO but not available,Tracking Issue
+2026-03-23,AV781112692IN,AV,Air Mail (A),Ack. Regd. Article,Marked addressee absent without attempt,Fake Delivery Attempt
+2026-03-23,AW794311431IN,AW,Air Mail (A),Ack. Regd. Article,Article booked but customer did not order,Service Issue
+2026-03-23,PT041637548IN,PT,Parcel (P),Speed Post,Article not delivered since long time,Delivery Delay
+2026-03-23,EF758544186IN,EF,Speed Post (E),Speed Post,Pending delivery after reaching NSH,Delivery Delay
+2026-03-23,RY009616789IN,RY,Registered (R),Registered Letter,Parcel reached but not delivered,Delivery Delay
+2026-03-23,JL066504922IN,JL,Bulk Speed Post (J),Speed Post,Tracking not updated since long time,Tracking Issue
+2026-03-23,ST232870009IN,ST,Other (S),Speed Post,No tracking update available,Tracking Issue
+2026-03-23,CL593212220IN,CL,COD (C),COD Parcel,Shipment not delivered no update,Delivery Delay
+2026-03-23,LP635858073GB,LP,International (L),International Article,Parcel stuck at customs,Delivery Delay
+2026-03-23,JD090431324IN,JD,Bulk Speed Post (J),Speed Post,Parcel stuck for several days,Delivery Delay
+2026-03-23,JG568457407IN,JG,Bulk Speed Post (J),Speed Post,Speed post not delivered after complaints,Delivery Delay
+2026-03-23,CT304840180IN,CT,COD (C),COD Parcel,Tracking not updated since dispatch,Tracking Issue
+2026-03-23,EF447374885IN,EF,Speed Post (E),Speed Post,Marked addressee absent without attempt,Fake Delivery Attempt
+2026-03-23,EH229880880IN,EH,Speed Post (E),Speed Post,Repeated out for delivery but not delivered,Delivery Delay
+2026-03-23,ED326707823IN,ED,Speed Post (E),Speed Post,Out for delivery but not delivered,Delivery Delay
+2026-03-23,CR355625066IN,CR,COD (C),COD Parcel,Parcel not delivered after booking,Delivery Delay
+2026-03-21,JJ707272271IN,JJ,Bulk Speed Post (J),Speed Post,Shipment missent without update,Fake Delivery Attempt
+2026-03-21,JI579215812IN,JI,Bulk Speed Post (J),Speed Post,Returned without delivery attempt,Fake Delivery Attempt
+2026-03-21,JD372340599IN,JD,Bulk Speed Post (J),Speed Post,Marked delivered but ATM card not received,Missing Item
+2026-03-21,EW386977465IN,EW,Speed Post (E),Speed Post,Parcel not delivered urgent request,Delivery Delay
+2026-03-21,EW207314667IN,EW,Speed Post (E),Speed Post,Speed post delayed for 11 days,Delivery Delay
+2026-03-21,EF660997752IN,EF,Speed Post (E),Speed Post,Speed post delayed beyond expected time,Delivery Delay
+2026-03-21,EU877087858IN,EU,Speed Post (E),Speed Post,Door locked update without attempt,Fake Delivery Attempt
+2026-03-20,EJ240609308IN,EJ,Speed Post (E),Speed Post,No update after booking,Tracking Issue
+2026-03-20,CX017284482IN,CX,COD (C),COD Parcel,Unsuccessful delivery reason direct deposit unclear,Service Issue
+2026-03-20,JJ707272271IN,JJ,Bulk Speed Post (J),Speed Post,Shipment missent without update,Fake Delivery Attempt
+2026-03-20,PP380465560IN,PP,Parcel (P),Speed Post,Wrongly redirected parcel,Delivery Delay
+2026-03-20,EZ866970515IN,EZ,Speed Post (E),Speed Post,Returned without delivery attempt and marked delivered falsely,Fake Delivery Attempt
+2026-03-20,JM891617675IN,JM,Bulk Speed Post (J),Speed Post,Marked delivered but not actually received,Missing Item
+2026-03-20,EU859237202IN,EU,Speed Post (E),Speed Post,Out for delivery but not delivered,Delivery Delay
+2026-03-20,CI137475577IN,CI,COD (C),COD Parcel,Parcel stuck at New Delhi with no updates,Delivery Delay
+2026-03-20,EK262875305IN,EK,Speed Post (E),Speed Post,No tracking updates available,Tracking Issue
+2026-03-20,EW386977465IN,EW,Speed Post (E),Speed Post,Parcel not delivered before important deadline,Delivery Delay
+2026-03-20,EW207314667IN,EW,Speed Post (E),Speed Post,Speed post delayed and stuck in Bengaluru,Delivery Delay
+2026-03-21,JI579215812IN,JI,Bulk Speed Post (J),Speed Post,Returned without delivery attempt,Fake Delivery Attempt
+2026-03-21,JD372340599IN,JD,Bulk Speed Post (J),Speed Post,Marked delivered but ATM card not received,Missing Item
+2026-03-21,JJ707272271IN,JJ,Bulk Speed Post (J),Speed Post,Shipment missent without update,Fake Delivery Attempt
+2026-03-21,EJ240609308IN,EJ,Speed Post (E),Speed Post,Booked on 13/03/26 but no update since 14/03/26,Tracking Issue
+2026-03-21,JM338561785IN,JM,Bulk Speed Post (J),Speed Post,Undelivered and complaint closed with forged proof,Service Issue
+2026-03-20,CX017284482IN,CX,COD (C),COD Parcel,"Unsuccessful delivery with reason ""Direct Deposit"" without contact",Fake Delivery Attempt
+2026-03-20,JJ707272271IN,JJ,Bulk Speed Post (J),Speed Post,Missent status for 7 days without update,Tracking Issue
+2026-03-20,PP380465560IN,PP,Parcel (P),Speed Post,Wrongly redirected parcel,Delivery Delay
+2026-03-20,JM888639367IN,JM,Bulk Speed Post (J),Speed Post,Debit card parcel tampered,Damage/Loss
+2026-03-20,EY066831967IN,EY,Speed Post (E),Speed Post,Speed post stuck in transit since booking,Delivery Delay
+2026-03-20,EF660997752IN,EF,Speed Post (E),Speed Post,Booked on 13 March not delivered after 6 days,Delivery Delay
+2026-03-20,EU877087858IN,EU,Speed Post (E),Speed Post,"False ""Door Locked"" delivery attempt",Fake Delivery Attempt
+2026-03-20,EZ866970515IN,EZ,Speed Post (E),Speed Post,Returned without delivery attempt,Fake Delivery Attempt
+2026-03-20,JM891617675IN,JM,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-20,EU859237202IN,EU,Speed Post (E),Speed Post,Out for delivery but not delivered,Delivery Delay
+2026-03-20,CI137475577IN,CI,COD (C),COD Parcel,Parcel stuck at New Delhi since 12th March,Delivery Delay
+2026-03-20,EK262875305IN,EK,Speed Post (E),Speed Post,No tracking updates available,Tracking Issue
+2026-03-19,EU255186883IN,EU,Speed Post (E),Speed Post,Parcel not delivered and delayed,Delivery Delay
+2026-03-19,JL066500894IN,JL,Bulk Speed Post (J),Speed Post,Wrongly marked insufficient address and returned,Service Issue
+2026-03-19,EF694910392IN,EF,Speed Post (E),Speed Post,Tracking not updating for important documents,Tracking Issue
+2026-03-19,EW283935463IN,EW,Speed Post (E),Speed Post,Parcel not delivered for over 3 weeks,Delivery Delay
+2026-03-19,EF655198026IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-19,EF655191601IN,EF,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-19,EG622636206IN,EG,Speed Post (E),Speed Post,Parcel tampered and item missing,Damage/Loss
+2026-03-19,IT105805665IN,IT,Other (I),Speed Post,Marked missent without delivery attempt,Fake Delivery Attempt
+2026-03-19,ES975657413IN,ES,Speed Post (E),Speed Post,Delivered physically but not updated in system,Tracking Issue
+2026-03-18,LP150703340IN,LP,International (L),International Article,Parcel stuck at customs DIMC Delhi,Tracking Issue
+2026-03-18,CD390029269IN,CD,COD (C),COD Parcel,Parcel delivered in tampered condition with missing items,Damage/Loss
+2026-03-18,EI168161848IN,EI,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-18,EW377968828IN,EW,Speed Post (E),Speed Post,Parcel stuck at Dibrugarh TMO beyond delivery time,Delivery Delay
+2026-03-18,JN432350896IN,JN,Bulk Speed Post (J),Speed Post,Tracking stuck at item invoiced and not delivered,Tracking Issue
+2026-03-18,UC524478054IN,UC,Registered Parcel (U),Speed Post,Marked delivered but not received,Missing Item
+2026-03-18,HC055617305IN,HC,Other (H),Speed Post,Marked delivered without actual delivery attempt,Missing Item
+2026-03-18,EY064594735IN,EY,Speed Post (E),Speed Post,Delayed delivery beyond expected timeline,Delivery Delay
+2026-03-18,JG953969595IN,JG,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-18,CT257661015IN,CT,COD (C),COD Parcel,Missent delivery attempt without contact,Fake Delivery Attempt
+2026-03-18,EE802866418IN,EE,Speed Post (E),Speed Post,Marked delivered but still lying at delivery center,Service Issue
+2026-03-18,EG613490715IN,EG,Speed Post (E),Speed Post,Tracking exists but sender details unclear,Tracking Issue
+2026-03-18,EG530802052IN,EG,Speed Post (E),Speed Post,Marked door locked without delivery attempt,Fake Delivery Attempt
+2026-03-18,UC519834169IN,UC,Registered Parcel (U),Speed Post,Marked delivered but postman confirmed not delivered,Missing Item
+2026-03-18,UC515891130IN,UC,Registered Parcel (U),Speed Post,Marked delivered Aadhaar card not received,Missing Item
+2026-03-17,PT085413760IN,PT,Parcel (P),Speed Post,PAN card marked delivered but not received,Missing Item
+2026-03-17,EG586297304IN,EG,Speed Post (E),Speed Post,Parcel stuck with no updates since February,Tracking Issue
+2026-03-17,LP150703340IN,LP,International (L),International Article,Parcel stuck at customs awaiting clearance,Tracking Issue
+2026-03-17,JN331896736IN,JN,Bulk Speed Post (J),Speed Post,Wrong PIN causing misrouting,Service Issue
+2026-03-17,EU861475483IN,EU,Speed Post (E),Speed Post,Parcel stuck at sorting office and delayed,Delivery Delay
+2026-03-17,JB153369166IN,JB,Bulk Speed Post (J),Speed Post,Returned due to insufficient address despite reaching destination,Service Issue
+2026-03-17,CY191469465IN,CY,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-03-17,EF763353140IN,EF,Speed Post (E),Speed Post,Out for delivery but not received after multiple days,Delivery Delay
+2026-03-17,CX016532355IN,CX,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-03-17,CU619273104IN,CU,COD (C),COD Parcel,Parcel stuck at delivery hub for many days,Delivery Delay
+2026-03-17,CX016370437IN,CX,COD (C),COD Parcel,Delayed delivery more than 15 days,Delivery Delay
+2026-03-17,KB110277860IN,KB,Other (K),Speed Post,Complaint closed without resolution and item still in transit,Service Issue
+2026-03-17,ST230569122IN,ST,Other (S),Speed Post,Marked delivered but not received,Missing Item
+2026-03-17,IT105805665IN,IT,Other (I),Speed Post,Missent delivery attempt reported,Fake Delivery Attempt
+2026-03-17,UC501388316IN,UC,Registered Parcel (U),Speed Post,Tracking available but delivery not completed,Tracking Issue
+2026-03-17,EW388728704IN,EW,Speed Post (E),Speed Post,Out for delivery but no attempt made,Fake Delivery Attempt
+2026-03-17,PT085413760IN,PT,Parcel (P),Speed Post,PAN card marked delivered but not received,Missing Item
+2026-03-17,EG586297304IN,EG,Speed Post (E),Speed Post,Parcel stuck for long time without updates,Tracking Issue
+2026-03-17,JN331896736IN,JN,Bulk Speed Post (J),Speed Post,Wrong PIN leading to misrouting,Service Issue
+2026-03-17,EG530802052IN,EG,Speed Post (E),Speed Post,Marked door locked without attempt,Fake Delivery Attempt
+2026-03-17,UC519834169IN,UC,Registered Parcel (U),Speed Post,Marked delivered but postman denied delivery,Missing Item
+2026-03-17,UC515891130IN,UC,Registered Parcel (U),Speed Post,Aadhaar marked delivered but not received,Missing Item
+2026-03-16,CW243912226IN,CW,COD (C),COD Parcel,Door delivery refused and asked to collect from post office,Service Issue
+2026-03-16,CA728403220IN,CA,COD (C),COD Parcel,Parcel not delivered since January and stuck at PO,Delivery Delay
+2026-03-16,CA728402975IN,CA,COD (C),COD Parcel,Parcel not delivered since January and stuck at PO,Delivery Delay
+2026-03-16,EY063990261IN,EY,Speed Post (E),Speed Post,Marked delivered but not received after multiple days,Missing Item
+2026-03-16,JN431219145IN,JN,Bulk Speed Post (J),Speed Post,Marked delivered but PAN card not received,Missing Item
+2026-03-16,EJ921998175IN,EJ,Speed Post (E),Speed Post,Speed post delayed beyond deadline and not delivered,Delivery Delay
+2026-03-16,EU825562940IN,EU,Speed Post (E),Speed Post,Missent delivery attempt without actual attempt,Fake Delivery Attempt
+2026-03-16,EH215804557IN,EH,Speed Post (E),Speed Post,Parcel stuck at Delhi TMO for several days,Tracking Issue
+2026-03-16,CX016364405IN,CX,COD (C),COD Parcel,Parcel pending at Lucknow hub and not forwarded,Delivery Delay
+2026-03-16,CO108492785IN,CO,COD (C),COD Parcel,Out for delivery but not yet delivered,Delivery Delay
+2026-03-16,EF647724595IN,EF,Speed Post (E),Speed Post,Parcel stuck at booking office without movement,Tracking Issue
+2026-03-16,JH023565164IN,JH,Bulk Speed Post (J),Speed Post,Shipment not dispatched from origin and staff unresponsive,Service Issue
+2026-03-16,CR180606810IN,CR,COD (C),COD Parcel,Delivery not attempted despite being out for delivery,Fake Delivery Attempt
+2026-03-16,EY063415494IN,EY,Speed Post (E),Speed Post,Returned to sender without delivery attempt,Fake Delivery Attempt
+2026-03-16,UI709472854IN,UI,Registered Parcel (U),Speed Post,Aadhaar card dispatched but not delivered yet,Delivery Delay
+2026-03-16,JA054817733IN,JA,Bulk Speed Post (J),Speed Post,Marked delivered but not received by customer,Missing Item
+2026-03-16,CM237220075IN,CM,COD (C),COD Parcel,Parcel stuck since early March without movement,Tracking Issue
+2026-03-16,LP150703340IN,LP,International (L),International Article,Parcel stuck at customs and not cleared,Tracking Issue
+2026-03-16,EV854756979IN,EV,Speed Post (E),Speed Post,Unexpected tracking generated without booking,Service Issue
+2026-03-16,UC512765733IN,UC,Registered Parcel (U),Speed Post,Aadhaar PVC dispatched but delivery pending,Delivery Delay
+2026-03-14,ET269607895IN,ET,Speed Post (E),Speed Post,Repeated false delivery attempt messages without actual attempt,Fake Delivery Attempt
+2026-03-14,ET282461395IN,ET,Speed Post (E),Speed Post,Parcel stuck at LGBI TMO without updates,Tracking Issue
+2026-03-14,CU240677807IN,CU,COD (C),COD Parcel,Parcel missing since February without resolution,Missing Item
+2026-03-13,CA728403220IN,CA,COD (C),COD Parcel,Parcel not delivered and stuck at post office since January,Delivery Delay
+2026-03-13,CA728402975IN,CA,COD (C),COD Parcel,Parcel not delivered and stuck at post office since January,Delivery Delay
+2026-03-13,EZ720990657IN,EZ,Speed Post (E),Speed Post,Missent delivery attempt without proper delivery,Fake Delivery Attempt
+2026-03-14,EO809155942IN,EO,Speed Post (E),Speed Post,Marked delivered but item not received,Missing Item
+2026-03-14,PP491241132IN,PP,Parcel (P),Speed Post,Marked delivered but passport not received,Missing Item
+2026-03-14,CD889115905IN,CD,COD (C),COD Parcel,Marked delivered at GPO but not received at address,Missing Item
+2026-03-14,EZ720723713IN,EZ,Speed Post (E),Speed Post,Parcel delayed and not delivered on time,Delivery Delay
+2026-03-14,JJ739162224IN,JJ,Bulk Speed Post (J),Speed Post,Delivery attempt failed with false door locked reason,Fake Delivery Attempt
+2026-03-14,JL158694887IN,JL,Bulk Speed Post (J),Speed Post,Tracking generated without booking request,Service Issue
+2026-03-14,EF737690736IN,EF,Speed Post (E),Speed Post,Missent delivery attempt reported,Fake Delivery Attempt
+2026-03-13,EJ914274675IN,EJ,Speed Post (E),Speed Post,Parcel stuck at invoiced stage for multiple days,Tracking Issue
+2026-03-13,EH226375037IN,EH,Speed Post (E),Speed Post,Marked delivered but not physically received,Missing Item
+2026-03-13,EH226374924IN,EH,Speed Post (E),Speed Post,Marked delivered but not physically received,Missing Item
+2026-03-13,JN421389595IN,JN,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-13,EY064888986IN,EY,Speed Post (E),Speed Post,Pickup scheduled but not completed,Service Issue
+2026-03-13,EE802866418IN,EE,Speed Post (E),Speed Post,Delivered to wrong person not intended recipient,Service Issue
+2026-03-13,EM420316711IN,EM,Speed Post (E),Speed Post,Parcel stuck in Mumbai without movement,Tracking Issue
+2026-03-13,EU553574662IN,EU,Speed Post (E),Speed Post,Parcel stuck at RMS office for long duration,Tracking Issue
+2026-03-13,CX014087072IN,CX,COD (C),COD Parcel,Parcel repeatedly missent and not delivered,Tracking Issue
+2026-03-13,MS692039531IN,MS,Other (M),Speed Post,Marked delivered without actual delivery,Missing Item
+2026-03-13,EH242211765IN,EH,Speed Post (E),Speed Post,No tracking details available after booking,Tracking Issue
+2026-03-13,EW437710375IN,EW,Speed Post (E),Speed Post,Invalid tracking message received without request,Service Issue
+2026-03-11,JL271803187IN,JL,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-11,ET205019154IN,ET,Speed Post (E),Speed Post,Parcel stuck at Chunar SO since 2 March and not delivered,Delivery Delay
+2026-03-11,AQ010057999IN,AQ,Air Mail (A),Ack. Regd. Article,Debit card delayed and stuck at TMO,Delivery Delay
+2026-03-11,JI912275452IN,JI,Bulk Speed Post (J),Speed Post,False door locked delivery attempt without visit,Fake Delivery Attempt
+2026-03-11,CU536452553IN,CU,COD (C),COD Parcel,Marked delivered but not actually received,Missing Item
+2026-03-11,JG438573826IN,JG,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-11,EO775334562IN,EO,Speed Post (E),Speed Post,Wrong mobile number entered preventing access to POD,Service Issue
+2026-03-11,LJ040465886CN,LJ,International (L),International Article,Unable to track international article,Tracking Issue
+2026-03-11,EM420316711IN,EM,Speed Post (E),Speed Post,Parcel stuck in Mumbai since February,Tracking Issue
+2026-03-11,EU553574662IN,EU,Speed Post (E),Speed Post,Parcel stuck at RMS office for long duration,Tracking Issue
+2026-03-11,CX014087072IN,CX,COD (C),COD Parcel,Parcel repeatedly missent and not delivered,Tracking Issue
+2026-03-11,MS692039531IN,MS,Other (M),Speed Post,Marked delivered without actual delivery,Missing Item
+2026-03-11,EH242211765IN,EH,Speed Post (E),Speed Post,No tracking details available after booking,Tracking Issue
+2026-03-11,EW437710375IN,EW,Speed Post (E),Speed Post,Invalid tracking message received,Service Issue
+2026-03-11,EN841376478IN,EN,Speed Post (E),Speed Post,Parcel not delivered after booking delay,Delivery Delay
+2026-03-10,EF586724135IN,EF,Speed Post (E),Speed Post,Speed post not delivered after booking,Delivery Delay
+2026-03-10,JD349080577IN,JD,Bulk Speed Post (J),Speed Post,False addressee absent delivery attempt without contact,Fake Delivery Attempt
+2026-03-10,TA797873759IN,TA,Other (T),Speed Post,Parcel not delivered despite nearby destination,Delivery Delay
+2026-03-10,EU891835429IN,EU,Speed Post (E),Speed Post,Parcel booked but unclear delivery status,Tracking Issue
+2026-03-10,EK860298243IN,EK,Speed Post (E),Speed Post,Out for delivery but not delivered,Delivery Delay
+2026-03-10,CV139980350IN,CV,COD (C),COD Parcel,False unsuccessful delivery attempt reported,Fake Delivery Attempt
+2026-03-10,RU803945196IN,RU,Registered (R),Registered Letter,Marked delivered but not received,Missing Item
+2026-03-10,UC505609548IN,UC,Registered Parcel (U),Speed Post,Aadhaar PVC marked delivered but not received,Missing Item
+2026-03-10,CL485312047IN,CL,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-03-10,AW792648190IN,AW,Air Mail (A),Ack. Regd. Article,Parcel returned without delivery attempt,Service Issue
+2026-03-10,EF286161820IN,EF,Speed Post (E),Speed Post,Request to stop delivery after booking,Service Issue
+2026-03-10,CW196767050IN,CW,COD (C),COD Parcel,Parcel stuck at TMO without updates,Tracking Issue
+2026-03-10,EV854756979IN,EV,Speed Post (E),Speed Post,Unexpected tracking generated,Service Issue
+2026-03-10,CT274217861IN,CT,COD (C),COD Parcel,False direct deposit delivery attempt,Fake Delivery Attempt
+2026-03-09,PP115530237IN,PP,Parcel (P),Speed Post,Marked delivered but not received,Missing Item
+2026-03-09,ST132905221IN,ST,Other (S),Speed Post,Out for delivery but unsuccessful intimation delivery,Service Issue
+2026-03-09,CW196767050IN,CW,COD (C),COD Parcel,Parcel stuck and not delivered,Tracking Issue
+2026-03-09,EV528106552LN,EV,Speed Post (E),Speed Post,Marked delivered but item not received,Missing Item
+2026-03-09,UC521959114IN,UC,Registered Parcel (U),Speed Post,False delivered status without delivery attempt,Fake Delivery Attempt
+2026-03-09,CT274217861IN,CT,COD (C),COD Parcel,Unsuccessful delivery with direct deposit reason,Fake Delivery Attempt
+2026-03-09,CW197372787IN,CW,COD (C),COD Parcel,Parcel missing after booking,Missing Item
+2026-03-07,JA965593470IN,JA,Bulk Speed Post (J),Speed Post,Marked delivered but not received with alleged forged signature,Missing Item
+2026-03-07,JM334943205IN,JM,Bulk Speed Post (J),Speed Post,Out for delivery and customer requested urgent delivery,Delivery Delay
+2026-03-07,LP128865490AU,LP,International (L),International Article,International article stuck at FPO Delhi with no movement,Tracking Issue
+2026-03-07,CY191674427IN,CY,COD (C),COD Parcel,Business parcel booked with no complaint details,Service Issue
+2026-03-07,CU619273104IN,CU,COD (C),COD Parcel,Parcel stuck at Ghaziabad PH with no movement,Delivery Delay
+2026-03-06,JC337517785IN,JC,Bulk Speed Post (J),Speed Post,Marked delivered but delivery process questionable,Missing Item
+2026-03-06,ED862747537IN,ED,Speed Post (E),Speed Post,Out for delivery but no attempt made,Fake Delivery Attempt
+2026-03-06,CH122298867IN,CH,COD (C),COD Parcel,Parcel not received for about one month,Delivery Delay
+2026-03-06,CY183182814IN,CY,COD (C),COD Parcel,Marked delivered but not received,Missing Item
+2026-03-07,JD090043554IN,JD,Bulk Speed Post (J),Speed Post,False door locked delivery attempt,Fake Delivery Attempt
+2026-03-07,JD090043599IN,JD,Bulk Speed Post (J),Speed Post,False door locked delivery attempt,Fake Delivery Attempt
+2026-03-08,JD365198699IN,JD,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-08,RU803945196IN,RU,Registered (R),Registered Letter,Delayed delivery within same city,Delivery Delay
+2026-03-07,ED141677479IN,ED,Speed Post (E),Speed Post,Speed post delayed more than 10 days,Delivery Delay
+2026-03-07,EU700477372IN,EU,Speed Post (E),Speed Post,Article kept in deposit and not delivered,Delivery Delay
+2026-03-07,EE802866381IN,EE,Speed Post (E),Speed Post,Parcel kept on deposit and not delivered,Delivery Delay
+2026-03-07,ED273927856IN,ED,Speed Post (E),Speed Post,Article received at SO but not delivered,Delivery Delay
+2026-03-06,LP952803679IN,LP,International (L),International Article,International article not delivered after long delay,Delivery Delay
+2026-03-06,CM295907867IN,CM,COD (C),COD Parcel,Marked delivered but no call or delivery received,Missing Item
+2026-03-06,JN416491060IN,JN,Bulk Speed Post (J),Speed Post,Missent delivery attempt despite customer being home,Fake Delivery Attempt
+2026-03-06,EY053379497I,EY,Speed Post (E),Speed Post,Parcel not traceable and complaint unanswered,Tracking Issue
+2026-03-06,CA174539210IN,CA,COD (C),COD Parcel,Tracking frozen after booking,Tracking Issue
+2026-03-06,AQ010057999IN,AQ,Air Mail (A),Ack. Regd. Article,ATM card stuck for days,Delivery Delay
+2026-03-06,AQ010057999IN,AQ,Air Mail (A),Ack. Regd. Article,ATM card stuck for days with no movement,Delivery Delay
+2026-03-05,JM334943205IN,JM,Bulk Speed Post (J),Speed Post,Out for delivery but not delivered,Fake Delivery Attempt
+2026-03-05,EU863807223IN,EU,Speed Post (E),Speed Post,Parcel delivered after delay,Other
+2026-03-05,EY061512723IN,EY,Speed Post (E),Speed Post,Speed post delayed more than expected,Delivery Delay
+2026-03-05,CA728403220IN,CA,COD (C),COD Parcel,Parcel not delivered and stuck at PO since January,Delivery Delay
+2026-03-05,CA728402975IN,CA,COD (C),COD Parcel,Parcel not delivered and stuck at PO since January,Delivery Delay
+2026-03-05,JA965593470IN,JA,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-05,CX014584219IN,CX,COD (C),COD Parcel,Parcel delayed for many days,Delivery Delay
+2026-03-05,CX014482183IN,CX,COD (C),COD Parcel,Parcel not delivered after almost 10 days,Delivery Delay
+2026-03-05,EV894385180IN,EV,Speed Post (E),Speed Post,Parcel with medicines not delivered,Delivery Delay
+2026-03-05,CG222951034IN,CG,COD (C),COD Parcel,No tracking update after 2 March,Tracking Issue
+2026-03-05,EO684672821IN,EO,Speed Post (E),Speed Post,Unsuccessful delivery with addressee instructions reason,Fake Delivery Attempt
+2026-03-05,AW792853457IN,AW,Air Mail (A),Ack. Regd. Article,Unsuccessful delivery with addressee absent reason,Fake Delivery Attempt
+2026-03-05,ED765706975IN,ED,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-05,ED765706984IN,ED,Speed Post (E),Speed Post,Marked delivered but not received,Missing Item
+2026-03-05,JN416491060IN,JN,Bulk Speed Post (J),Speed Post,Missent delivery attempt,Fake Delivery Attempt
+2026-03-05,JN416729597IN,JN,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-03-04,CR396588456IN,CR,COD (C),COD Parcel,Marked delivered but issue reported by customer,Service Issue
+2026-03-04,CA057740477IN,CA,COD (C),COD Parcel,International parcel has no recent tracking update,Tracking Issue
+2026-03-04,LP153018448IN,LP,International (L),International Article,International parcel tracking not updated after reaching Italy,Tracking Issue
+2026-03-04,LP153018451IN,LP,International (L),International Article,International parcel tracking not updated after reaching Italy,Tracking Issue
+2026-03-04,LP153018434IN,LP,International (L),International Article,International parcel tracking not updated after reaching Italy,Tracking Issue
+2026-03-04,LP154615138IN,LP,International (L),International Article,International parcel tracking not updated after reaching Italy,Tracking Issue
+2026-03-04,EE802865275IN,EE,Speed Post (E),Speed Post,Parcel stuck with no update,Tracking Issue
+2026-03-04,EE802865960IN,EE,Speed Post (E),Speed Post,Parcel stuck with no update,Tracking Issue
+2026-03-04,MS670015895IN,MS,Other (M),Speed Post,Missent delivery attempt,Fake Delivery Attempt
+2026-03-04,EN502155865JP,EN,Speed Post (E),Speed Post,Customs payment not updated and receipt unstamped,Service Issue
+2026-03-04,CM510528665IN,CM,COD (C),COD Parcel,Parcel reached post office but not delivered,Delivery Delay
+2026-03-03,EI539495765IN,EI,Speed Post (E),Speed Post,International parcel stuck at TMO,Tracking Issue
+2026-03-03,PT164370046IN,PT,Parcel (P),Speed Post,False door locked delivery attempt,Fake Delivery Attempt
+2026-03-03,EE802865275IN,EE,Speed Post (E),Speed Post,Shipment stuck since Feb 26 with no update,Tracking Issue
+2026-03-03,EE802865960IN,EE,Speed Post (E),Speed Post,Business parcel stuck since Feb 26,Tracking Issue
+2026-03-03,LP153018451IN,LP,International (L),International Article,International parcel not exported or no movement,Delivery Delay
+2026-03-03,LP153018448IN,LP,International (L),International Article,International parcel not exported or no movement,Delivery Delay
+2026-03-03,LP153018434IN,LP,International (L),International Article,International parcel not exported or no movement,Delivery Delay
+2026-03-03,LP154615138IN,LP,International (L),International Article,International parcel not exported or no movement,Delivery Delay
+2026-03-03,CY183869608IN,CY,COD (C),COD Parcel,Postman asked customer to collect instead of doorstep delivery,Service Issue
+2026-03-03,PP115468530IN,PP,Parcel (P),Speed Post,Out for delivery for passport and customer fears false door locked update,Delivery Delay
+2026-03-03,QD408463637IN,QD,Other (Q),Speed Post,Unable to track article after booking message,Tracking Issue
+2026-03-02,EF666039241IN,EF,Speed Post (E),Speed Post,Out for delivery but not received,Delivery Delay
+2026-03-02,PP115468530IN,PP,Parcel (P),Speed Post,False door locked delivery attempt for passport,Fake Delivery Attempt
+2026-03-02,EN744390255IN,EN,Speed Post (E),Speed Post,Parcel stuck in Vijayawada with no movement,Tracking Issue
+2026-03-02,JN414702058IN,JN,Bulk Speed Post (J),Speed Post,Parcel not delivered and current location unclear,Tracking Issue
+2026-03-02,PP115468530IN,PP,Parcel (P),Speed Post,Out for delivery but customer concerned about false door locked update,Delivery Delay
+2026-03-01,CU536335614IN,CU,COD (C),COD Parcel,Repeated pincode/address issue and parcel not delivered to address,Service Issue
+2026-03-01,UC521305355IN,UC,Registered Parcel (U),Speed Post,Marked delivered but not received,Missing Item
+2026-03-01,JL271828626IN,JL,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-02-28,CM154615393IN,CM,COD (C),COD Parcel,Wrong tracking/delivery message received for parcel not belonging to customer,Service Issue
+2026-02-28,EF762810413IN,EF,Speed Post (E),Speed Post,Parcel not delivered after 11 days,Delivery Delay
+2026-02-28,EF529470707IN,EF,Speed Post (E),Speed Post,Counter clerk refused cash and behaved rudely for speed post booking,Service Issue
+2026-02-28,JG967654707IN,JG,Bulk Speed Post (J),Speed Post,Marked delivered but not received,Missing Item
+2026-02-28,CP307896452IN,CP,COD (C),COD Parcel,Parcel not delivered and complaints closed without resolution,Delivery Delay
+2026-02-27,EN502155865JP,EN,Speed Post (E),Speed Post,Customs duty paid but receipt not stamped and online status incorrect,Service Issue
+2026-02-27,ED141681527IN,ED,Speed Post (E),Speed Post,Fragile parcel delivered damaged with broken item,Damage/Loss
+2026-02-27,EU870406058IN,EU,Speed Post (E),Speed Post,Unknown letter delivery message received,Service Issue
+2026-02-27,EU728776487IN,EU,Speed Post (E),Speed Post,Out for delivery / delivery status unclear,Tracking Issue
+2026-02-27,PT139198770IN,PT,Parcel (P),Speed Post,Pan card stuck at TMO and complaint closed incorrectly,Tracking Issue
+2026-02-27,CX014311215IN,CX,COD (C),COD Parcel,Marked delivered but recipient did not receive it,Missing Item
+2026-02-27,EH255036835IN,EH,Speed Post (E),Speed Post,Original documents submitted via India Post for insurance reimbursement,Service Issue
+2026-02-27,UC520809056IN,UC,Registered Parcel (U),Speed Post,Missent delivery attempt despite customer available at address,Fake Delivery Attempt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
