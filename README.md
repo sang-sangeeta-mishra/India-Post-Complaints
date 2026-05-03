@@ -104,7 +104,7 @@ india-post-complaint-analysis/
 ├── data/
 │   ├── raw data.xlsx                          # Original Twitter-scraped data
 │   ├── india_post_complaints_clean.csv        # Cleaned analysis-ready dataset
-│   └── india_post_data_cleaning.py                       # Python cleanup script
+│   └── india_post_data_cleaning.py            # Python cleanup script
 │
 ├── analysis/
 │   └── india_post_complaints_analysis.xlsx    # Excel summary with pivots
